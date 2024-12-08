@@ -111,7 +111,21 @@
                 "start_time": "11:30am",
                 "end_time": "1:00pm"
             } 
-        }
+        },
+        {
+            "schedule_id" : "20",
+            "room_no": "209",
+            "building_name": "PRRC",
+            "course_code": "ITAPPSDEV",
+            "course_name": "Application Development and Emerging Technologies",
+            "section": "BSIT 2C",
+            "instructor_name": "Marjon Umbay",
+            "class_day": ["Mon", "Sat"],
+            "time" : {
+                "start_time": "8:30am",
+                "end_time": "10:00am"
+            } 
+        },
 
     ]
 }
